@@ -1,0 +1,10 @@
+{"drinks": [
+    {
+        "price": 3,
+        "name": "Coke"
+    },
+    {
+        "price": 2,
+        "name": "Milk"
+    }
+]}

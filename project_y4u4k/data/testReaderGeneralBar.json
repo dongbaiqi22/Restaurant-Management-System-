@@ -1,0 +1,32 @@
+{"tables": [
+    {
+        "table number": 1,
+        "availability": false,
+        "customers": [{"orders": [{
+            "price": 3,
+            "name": "Coke"
+        }]}],
+        "capacity": 4
+    },
+    {
+        "table number": 2,
+        "availability": false,
+        "customers": [
+            {"orders": [{
+                "price": 2,
+                "name": "Milk"
+            }]},
+            {"orders": [
+                {
+                    "price": 3,
+                    "name": "Coke"
+                },
+                {
+                    "price": 2,
+                    "name": "Milk"
+                }
+            ]}
+        ],
+        "capacity": 5
+    }
+]}

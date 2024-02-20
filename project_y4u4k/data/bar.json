@@ -1,0 +1,48 @@
+{"tables": [
+    {
+        "table number": 1,
+        "availability": false,
+        "customers": [
+            {"orders": [
+                {
+                    "price": 16,
+                    "name": "Mojito"
+                },
+                {
+                    "price": 16,
+                    "name": "Mojito"
+                },
+                {
+                    "price": 2,
+                    "name": "Coke"
+                }
+            ]},
+            {"orders": []}
+        ],
+        "capacity": 2
+    },
+    {
+        "table number": 2,
+        "availability": true,
+        "customers": [],
+        "capacity": 3
+    },
+    {
+        "table number": 3,
+        "availability": true,
+        "customers": [],
+        "capacity": 4
+    },
+    {
+        "table number": 4,
+        "availability": true,
+        "customers": [],
+        "capacity": 4
+    },
+    {
+        "table number": 5,
+        "availability": true,
+        "customers": [],
+        "capacity": 2
+    }
+]}

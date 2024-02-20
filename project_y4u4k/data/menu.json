@@ -1,0 +1,22 @@
+{"drinks": [
+    {
+        "price": 16,
+        "name": "Mojito"
+    },
+    {
+        "price": 17,
+        "name": "Martini"
+    },
+    {
+        "price": 15,
+        "name": "Old Fashion"
+    },
+    {
+        "price": 2,
+        "name": "Coke"
+    },
+    {
+        "price": 1,
+        "name": "Milk"
+    }
+]}
