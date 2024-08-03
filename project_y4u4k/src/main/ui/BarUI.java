@@ -746,3 +746,4 @@ public class BarUI extends JFrame {
         });
     }
 }
+
